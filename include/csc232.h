@@ -17,7 +17,7 @@
 #define FALSE 0
 #define TRUE 1
 
-#define FINISHED_PART_1 FALSE
+#define FINISHED_PART_1 TRUE
 #define FINISHED_PART_2 FALSE
 #define FINISHED_PART_3 FALSE
 
