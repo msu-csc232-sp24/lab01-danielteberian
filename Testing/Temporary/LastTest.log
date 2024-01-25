@@ -1,0 +1,23 @@
+Start testing: Jan 24 18:09 CST
+----------------------------------------------------------
+1/1 Testing: Scenario: Evaluate Code for Task 1
+1/1 Test: Scenario: Evaluate Code for Task 1
+Command: "/SCHOOL/CSC/lab01-danielteberian/tests" "Scenario: Evaluate Code for Task 1"
+Directory: /SCHOOL/CSC/lab01-danielteberian
+"Scenario: Evaluate Code for Task 1" start time: Jan 24 18:09 CST
+Output:
+----------------------------------------------------------
+Filters: "Scenario: Evaluate Code for Task 1"
+Randomness seeded to: 2085756892
+===============================================================================
+All tests passed (4 assertions in 1 test case)
+
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"Scenario: Evaluate Code for Task 1" end time: Jan 24 18:09 CST
+"Scenario: Evaluate Code for Task 1" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Jan 24 18:09 CST
