@@ -1,4 +1,4 @@
-# Install script for directory: /SCHOOL/CSC/lab01-danielteberian/_deps/catch2-src
+# Install script for directory: /workspaces/lab01-danielteberian/_deps/catch2-src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -29,7 +29,7 @@ endif()
 
 # Install shared libraries without execute permission?
 if(NOT DEFINED CMAKE_INSTALL_SO_NO_EXE)
-  set(CMAKE_INSTALL_SO_NO_EXE "0")
+  set(CMAKE_INSTALL_SO_NO_EXE "1")
 endif()
 
 # Is this installation the result of a crosscompile?
@@ -37,14 +37,9 @@ if(NOT DEFINED CMAKE_CROSSCOMPILING)
   set(CMAKE_CROSSCOMPILING "FALSE")
 endif()
 
-# Set default install directory permissions.
-if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "/usr/bin/objdump")
-endif()
-
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-build/src/cmake_install.cmake")
+  include("/workspaces/lab01-danielteberian/_deps/catch2-build/src/cmake_install.cmake")
 
 endif()
 

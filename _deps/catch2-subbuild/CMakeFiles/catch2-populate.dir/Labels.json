@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/CMakeFiles/catch2-populate-complete.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-download.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-install.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-mkdir.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-patch.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-configure.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-build.rule"
 		},
 		{
-			"file" : "/SCHOOL/CSC/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-update.rule"
+			"file" : "/workspaces/lab01-danielteberian/_deps/catch2-subbuild/catch2-populate-prefix/src/catch2-populate-stamp/catch2-populate-test.rule"
 		}
 	],
 	"target" : 

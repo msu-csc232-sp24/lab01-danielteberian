@@ -1,1 +1,1 @@
-/usr/bin/c++  -Wall -Wno-long-long -g CMakeFiles/main.dir/src/main/cpp/main.cpp.o -o main 
+/usr/bin/c++   -Wall -Wno-long-long -g   CMakeFiles/main.dir/src/main/cpp/main.cpp.o  -o main 

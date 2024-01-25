@@ -1,5 +1,5 @@
-if(EXISTS "/SCHOOL/CSC/lab01-danielteberian/tests_tests-b12d07c.cmake")
-  include("/SCHOOL/CSC/lab01-danielteberian/tests_tests-b12d07c.cmake")
+if(EXISTS "/workspaces/lab01-danielteberian/tests_tests-b12d07c.cmake")
+  include("/workspaces/lab01-danielteberian/tests_tests-b12d07c.cmake")
 else()
   add_test(tests_NOT_BUILT-b12d07c tests_NOT_BUILT-b12d07c)
 endif()

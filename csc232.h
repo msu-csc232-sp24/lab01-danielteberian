@@ -18,8 +18,8 @@
 #define TRUE 1
 
 #define FINISHED_PART_1 TRUE
-#define FINISHED_PART_2 FALSE
-#define FINISHED_PART_3 FALSE
+#define FINISHED_PART_2 TRUE
+#define FINISHED_PART_3 TRUE
 
 #include <algorithm>
 #include <cassert>
@@ -72,16 +72,52 @@ double gradeBook[NUM_COURSES][ROSTER_SIZE];
 
 // TODO: 2.1 Declare a function named as specified that specifies two parameters. The first parameter is an integer that
 //  specifies the number of elements in the array to process and the second parameter is an array of doubles.
+void maxGrade(double array, int NUM_ELEMENTS)
+{
+}
 
 
 // TODO: 2.2 Declare function named as specified that specifies three parameters. The first parameter is an integer
 //  that corresponds to the number of rows in the given table, the second parameter is an integer that corresponds to
 //  the number of columns in the table, and the third parameter is for a two-dimensional array of double values.
+void indexOfMaxGrade(double array, int NUM_ROWS, int NUM_COLS)
+{
+}
 
 // TODO: 3.1 - Implement the specified function below
+double maxGrade(int NUM_ELEMENTS, double array[])
+{
+	double max = array[0];
 
+	for (int i = 1; i < NUM_ELEMENTS; ++i)
+	{
+		if (array[i] > max)
+		{
+			max = array[i];
+		}
+	}
 
+	return max;
+}
 // TODO: 3.2 Implement the specified function below
+int indexOfMaxGrade(int NUM_ROWS, int NUM_COLS, double array[][ROSTER_SIZE])
+{
+	int maxRowIndex = 0;
+	double maxGrade = array[0][0];
 
+	for (int i = 0; i < NUM_ROWS; ++i)
+	{
+		for (int j = 0; j < NUM_COLS; ++j)
+		{
+			if (array[i][j] > maxGrade)
+			{
+				maxGrade = array[i][j];
+				maxRowIndex = i;
+			}
+		}
+	}
+
+	return maxRowIndex;
+}
 
 #endif // MSU_CSC232_H_
